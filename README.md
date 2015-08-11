@@ -21,12 +21,12 @@ Description of the medical mindmapping process goes here.
 
 WIP
 
-## Cintribution
-If you use the OPENMEDiAID Medical Mindmap Paper Toolkit to build your own medical mindmap, we would like you to share the results with us.
-
+## Medical Mindmaps
 WIP
 
-## Medical Mindmaps
+## Contributing
+If you use the OPENMEDiAID Medical Mindmap Paper Toolkit to build your own medical mindmap, we would like you to share the results with us.
+
 WIP
 
 ## Licence Information
