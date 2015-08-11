@@ -8,6 +8,7 @@ WIP
 
 ## Shape Overview
 An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.
+Each image is linked to the respective file in the repository.
 
 ### Shapes
 | Name | Print Shape | Red | Yellow | Green | Blue |
