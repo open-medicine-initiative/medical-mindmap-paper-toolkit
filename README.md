@@ -2,15 +2,31 @@
 The Medical Mindmap Paper Toolkit provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
 
 ## Description
+The Medical Mindmap Paper Toolkit provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
+
 WIP
 
-## Included Shapes
+## Shape Overview
+An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.
+
 WIP
 
 ## Print Collections
+Various PDF collections for printing the Paper Toolkit at home.
+
 WIP
 
-## Medical Mindmap Building
+## Medical Mindmapping Process
+Description of the medical mindmapping process goes here.
+
+WIP
+
+## Cintribution
+If you use the OPENMEDiAID Medical Mindmap Paper Toolkit to build your own medical mindmap, we would like you to share the results with us.
+
+WIP
+
+## Medical Mindmaps
 WIP
 
 ## Licence Information
