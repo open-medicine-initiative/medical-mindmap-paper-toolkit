@@ -19,13 +19,15 @@ Each image is linked to the respective file in the repository.
 | **Cloud** | ![Cloud Shape](../master/single/shape/png/cloud.png "Cloud Shape") | ![Cloud Example - Red](../master/single/shape/png/cloud-red.png "Cloud Example - Red") | ![Cloud Example - Yellow](../master/single/shape/png/cloud-yellow.png "Cloud Example - Yellow") | ![Cloud Example - Green](../master/single/shape/png/cloud-green.png "Cloud Example - Green") | ![Cloud Example - Blue](../master/single/shape/png/cloud-blue.png "Cloud Example - Blue") |
 | *Default Usage* |  | *Main Symptom* |  |  |  |
 | **Hexagon** | ![Hexagon Shape](../master/single/shape/png/hexagon.png "Hexagon Shape") | ![Hexagon Example - Red](../master/single/shape/png/hexagon-red.png "Hexagon Example - Red") | ![Hexagon Example - Yellow](../master/single/shape/png/hexagon-yellow.png "Hexagon Example - Yellow") | ![Hexagon Example - Green](../master/single/shape/png/hexagon-green.png "Hexagon Example - Green") | ![Hexagon Example - Blue](../master/single/shape/png/hexagon-blue.png "Hexagon Example - Blue") |
-| *Default Usage* |  |  | *Negative Medical Influence (e.g. Surgery, Treatment, Medicine, Therapy)* |  | *Positive Medical Influence (e.g. Surgery, Treatment, Medicine, Therapy)* |
+| *Default Usage* |  |  | *Negative Medical Influence** |  | *Positive Medical Influence** |
 | **Pillow** | ![Pillow Shape](../master/single/shape/png/pillow.png "Pillow Shape") | ![Pillow Example - Red](../master/single/shape/png/pillow-red.png "Pillow Example - Red") | ![Pillow Example - Yellow](../master/single/shape/png/pillow-yellow.png "Pillow Example - Yellow") | ![Pillow Example - Green](../master/single/shape/png/pillow-green.png "Pillow Example - Green") | ![Pillow Example - Blue](../master/single/shape/png/pillow-blue.png "Pillow Example - Blue") |
 | *Default Usage* |  | *Disease* |  |  |  |
 | **Rectangle** | ![Rectangle Shape](../master/single/shape/png/rectangle.png "Rectangle Shape") | ![Rectangle Example - Red](../master/single/shape/png/rectangle-red.png "Rectangle Example - Red") | ![Rectangle Example - Yellow](../master/single/shape/png/rectangle-yellow.png "Rectangle Example - Yellow") | ![Rectangle Example - Green](../master/single/shape/png/rectangle-green.png "Rectangle Example - Green") | ![Rectangle Example - Blue](../master/single/shape/png/rectangle-blue.png "Rectangle Example - Blue") |
 | *Default Usage* |  |  |  |  |  |
 | **Star** | ![Star Shape](../master/single/shape/png/star.png "Star Shape") | ![Star Example - Red](../master/single/shape/png/star-red.png "Star Example - Red") | ![Star Example - Yellow](../master/single/shape/png/star-yellow.png "Star Example - Yellow") | ![Star Example - Green](../master/single/shape/png/star-green.png "Star Example - Green") | ![Star Example - Blue](../master/single/shape/png/star-blue.png "Star Example - Blue") |
-| *Default Usage* |  | *Symptomatic Side-Effect* | *Negative Non-Medical Influence (e.g. Activity, Emotion, Food, Strategy/Method)* | *Positive Non-Medical Influence (e.g. Activity, Emotion, Food, Strategy/Method)* |  |
+| *Default Usage* |  | *Symptomatic Side-Effect* | *Negative Non-Medical Influence*** | *Positive Non-Medical Influence*** |  |
+** Medical = e.g. Surgery, Treatment, Medicine, Therapy*
+***Non-Medical = e.g. Activity, Emotion, Food, Strategy/Method*
 
 ### Arrows
 | Category | Straight | Curved Left | Curved Right | Two-Sided | Two-Sided Curved |
