@@ -1,5 +1,6 @@
 # Medical Mindmap Paper Toolkit
-The Medical Mindmap Paper Toolkit provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
+
+![Medical Mindmap Paper Toolkit - Process](../master/ptk-process.png "Medical Mindmap Paper Toolkit - Process")
 
 ## Description
 The Medical Mindmap Paper Toolkit provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
