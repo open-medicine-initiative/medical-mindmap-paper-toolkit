@@ -8,7 +8,7 @@ The Medical Mindmap Paper Toolkit provides a set of materials used to model medi
 WIP
 
 ## Shape Overview
-An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.
+An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.  
 Each image is linked to the respective file in the repository.
 
 ### Shapes
@@ -26,9 +26,9 @@ Each image is linked to the respective file in the repository.
 | *Default Usage* |  |  |  |  |  |
 | **Star** | ![Star Shape](../master/single/shape/png/star.png "Star Shape") | ![Star Example - Red](../master/single/shape/png/star-red.png "Star Example - Red") | ![Star Example - Yellow](../master/single/shape/png/star-yellow.png "Star Example - Yellow") | ![Star Example - Green](../master/single/shape/png/star-green.png "Star Example - Green") | ![Star Example - Blue](../master/single/shape/png/star-blue.png "Star Example - Blue") |
 | *Default Usage* |  | *Symptomatic Side-Effect* | *Negative Non-Medical Influence*** | *Positive Non-Medical Influence*** |  |
-**Medical = e.g. Surgery, Treatment, Medicine, Therapy*
 
-***Non-Medical = e.g. Activity, Emotion, Food, Strategy/Method*
+  **Medical = e.g. Surgery, Treatment, Medicine, Therapy*  
+  ***Non-Medical = e.g. Activity, Emotion, Food, Strategy/Method*
 
 ### Arrows
 | Category | Straight | Curved Left | Curved Right | Two-Sided | Two-Sided Curved |
