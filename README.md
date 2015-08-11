@@ -9,6 +9,24 @@ WIP
 ## Shape Overview
 An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.
 
+### Arrows
+
+#### Normal
+
+#### Bold
+
+#### Dotted
+
+### Shapes
+| Name | Print Shape | Red | Yellow | Green | Blue |
+| ---- | ----------- | --- | ------ | ----- | ---- |
+| *Circle* | ![Circle Shape](../medical-mindmap-paper-toolkit/single/shape/png/circle.png "Circle Shape") | ![Circle Example - Red](../medical-mindmap-paper-toolkit/single/shape/png/circle-red.png "Circle Example - Red") | ![Circle Example - Yellow](../medical-mindmap-paper-toolkit/single/shape/png/circle-yellow.png "Circle Example - Yellow") | ![Circle Example - Green](../medical-mindmap-paper-toolkit/single/shape/png/circle-green.png "Circle Example - Green") | ![Circle Example - Blue](../medical-mindmap-paper-toolkit/single/shape/png/circle-blue.png "Circle Example - Blue") |
+| *Cloud* | ![Cloud Shape](../medical-mindmap-paper-toolkit/single/shape/png/cloud.png "Cloud Shape") | ![Cloud Example - Red](../medical-mindmap-paper-toolkit/single/shape/png/cloud-red.png "Cloud Example - Red") | ![Cloud Example - Yellow](../medical-mindmap-paper-toolkit/single/shape/png/cloud-yellow.png "Cloud Example - Yellow") | ![Cloud Example - Green](../medical-mindmap-paper-toolkit/single/shape/png/cloud-green.png "Cloud Example - Green") | ![Cloud Example - Blue](../medical-mindmap-paper-toolkit/single/shape/png/cloud-blue.png "Cloud Example - Blue") |
+| *Hexagon* | ![Hexagon Shape](../medical-mindmap-paper-toolkit/single/shape/png/hexagon.png "Hexagon Shape") | ![Hexagon Example - Red](../medical-mindmap-paper-toolkit/single/shape/png/hexagon-red.png "Hexagon Example - Red") | ![Hexagon Example - Yellow](../medical-mindmap-paper-toolkit/single/shape/png/hexagon-yellow.png "Hexagon Example - Yellow") | ![Hexagon Example - Green](../medical-mindmap-paper-toolkit/single/shape/png/hexagon-green.png "Hexagon Example - Green") | ![Hexagon Example - Blue](../medical-mindmap-paper-toolkit/single/shape/png/hexagon-blue.png "Hexagon Example - Blue") |
+| *Pillow* | ![Pillow Shape](../medical-mindmap-paper-toolkit/single/shape/png/pillow.png "Pillow Shape") | ![Pillow Example - Red](../medical-mindmap-paper-toolkit/single/shape/png/pillow-red.png "Pillow Example - Red") | ![Pillow Example - Yellow](../medical-mindmap-paper-toolkit/single/shape/png/pillow-yellow.png "Pillow Example - Yellow") | ![Pillow Example - Green](../medical-mindmap-paper-toolkit/single/shape/png/pillow-green.png "Pillow Example - Green") | ![Pillow Example - Blue](../medical-mindmap-paper-toolkit/single/shape/png/pillow-blue.png "Pillow Example - Blue") |
+| *Rectangle* | ![Rectangle Shape](../medical-mindmap-paper-toolkit/single/shape/png/rectangle.png "Rectangle Shape") | ![Rectangle Example - Red](../medical-mindmap-paper-toolkit/single/shape/png/rectangle-red.png "Rectangle Example - Red") | ![Rectangle Example - Yellow](../medical-mindmap-paper-toolkit/single/shape/png/rectangle-yellow.png "Rectangle Example - Yellow") | ![Rectangle Example - Green](../medical-mindmap-paper-toolkit/single/shape/png/rectangle-green.png "Rectangle Example - Green") | ![Rectangle Example - Blue](../medical-mindmap-paper-toolkit/single/shape/png/rectangle-blue.png "Rectangle Example - Blue") |
+| *Star* | ![Star Shape](../medical-mindmap-paper-toolkit/single/shape/png/star.png "Star Shape") | ![Star Example - Red](../medical-mindmap-paper-toolkit/single/shape/png/star-red.png "Star Example - Red") | ![Star Example - Yellow](../medical-mindmap-paper-toolkit/single/shape/png/star-yellow.png "Star Example - Yellow") | ![Star Example - Green](../medical-mindmap-paper-toolkit/single/shape/png/star-green.png "Star Example - Green") | ![Star Example - Blue](../medical-mindmap-paper-toolkit/single/shape/png/star-blue.png "Star Example - Blue") |
+
 WIP
 
 ## Print Collections
