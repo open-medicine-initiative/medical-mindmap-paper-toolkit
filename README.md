@@ -9,14 +9,6 @@ WIP
 ## Shape Overview
 An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.
 
-### Arrows
-
-#### Normal
-
-#### Bold
-
-#### Dotted
-
 ### Shapes
 | Name | Print Shape | Red | Yellow | Green | Blue |
 | ---- | ----------- | --- | ------ | ----- | ---- |
