@@ -19,7 +19,10 @@ An overview of all shapes, arrows and symbols that are part of the Paper Toolkit
 | *Rectangle* | ![Rectangle Shape](../master/single/shape/png/rectangle.png "Rectangle Shape") | ![Rectangle Example - Red](../master/single/shape/png/rectangle-red.png "Rectangle Example - Red") | ![Rectangle Example - Yellow](../master/single/shape/png/rectangle-yellow.png "Rectangle Example - Yellow") | ![Rectangle Example - Green](../master/single/shape/png/rectangle-green.png "Rectangle Example - Green") | ![Rectangle Example - Blue](../master/single/shape/png/rectangle-blue.png "Rectangle Example - Blue") |
 | *Star* | ![Star Shape](../master/single/shape/png/star.png "Star Shape") | ![Star Example - Red](../master/single/shape/png/star-red.png "Star Example - Red") | ![Star Example - Yellow](../master/single/shape/png/star-yellow.png "Star Example - Yellow") | ![Star Example - Green](../master/single/shape/png/star-green.png "Star Example - Green") | ![Star Example - Blue](../master/single/shape/png/star-blue.png "Star Example - Blue") |
 
-WIP
+### Arrows
+| Category | Straight | Curved Left | Curved Right | Two-Sided | Two-Sided Curved |
+| ---- | ----------- | --- | ------ | ----- | ---- |
+| *Normal* | ![Arrow Normal - One-Sided Straight](../master/single/arrow/png/arrow-normal-one-sided-straight.png "Arrow Normal - One-Sided Straight") | ![Arrow Normal - One-Sided Curved Left](../master/single/arrow/png/arrow-normal-one-sided-curved-left.png "Arrow Normal - One-Sided Curved Left") | ![Arrow Normal - One-Sided Curved Right](../master/single/arrow/png/arrow-normal-one-sided-curved-right.png "Arrow Normal - One-Sided Curved Right") | ![Arrow Normal - Two-Sided Straight](../master/single/arrow/png/arrow-normal-two-sided-straight.png "Arrow Normal - Two-Sided Straight") | ![Arrow Normal - Two-Sided Curved](../master/single/arrow/png/arrow-normal-two-sided-curved.png "Arrow Normal - Two-Sided Curved") |
 
 ## Print Collections
 Various PDF collections for printing the Paper Toolkit at home.
