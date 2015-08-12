@@ -54,12 +54,12 @@ Assuming you have printed the Medical Mindmap Paper Toolkit (or parts of it), yo
 
 The steps below outline the typical Medical Mindmapping process (but you may differ from it):
 
-### Step 1
+#### Step 1
 Start by **writing symptoms, therapies and other health factors** *(e.g. drugs, physical therapy, surgery, diet, activities and emotions)*, which are important to you, **on shapes**.
 
 **Arrange the shape elements** on a plain sheet of paper or cardboard **and connect them using arrows**, which visually describe the relationship appropriately.
 
-#### Hints:
+##### Hints:
 
  - You may change everything at any time *(e.g. arrangement, shapes, colors and sizes)*.
  - You can freely choose the visual representation of your elements regarding their properties *(e.g. color, shape, size)*.
@@ -68,18 +68,18 @@ Start by **writing symptoms, therapies and other health factors** *(e.g. drugs, 
  - You may cut your own shapes or differ the stencils as desired.
  - Think about how the elements relate to each other and select arrows representing these relationships in a suitable way.
 
-### Step 2
+#### Step 2
 Now that you got a first structure, you may **play with the arrangement and add further information** to it.
 
 When you are happy with your arrangement, you should **fix the elements** with some adhesive paste *(you may glue it, but adhesive paste allows easy moving and removing of elements later on)*.
 
-#### Hints:
+##### Hints:
 
  - There is a number of symbols included in this Paper Toolkit to add further details to your Mindmap, but you may also create your own or new symbols.
  - All information for which you can not find a visual representation, but
 is important to you, you can write it on paper snippets and fix them next to the corresponding elements.
 
-### Step 3
+#### Step 3
 Now it's time to **create a legend** to explain (and store) the meaning of your chosen arrows, shapes, colors and symbols.
 
 You should use the provided **legend template** *(available in [English](../master/print/ptk-legend-english_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf) and [German](../master/print/ptk-legende-deutsch_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf))*, which makes Medical Mindmaps more consistent and comparable.
