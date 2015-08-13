@@ -13,7 +13,7 @@ Each image is linked to the respective file in the repository.
 
 ### Shapes
 | Name | Print Shape | Red | Yellow | Green | Blue |
-| ---- |: --------- :|: --- :|: --- :|: --- :|: --- :|
+| ---- |:-----------:|:---:|:------:|:-----:|:----:|
 | **Circle** | ![Circle Shape](../master/single/shape/png/circle.png "Circle Shape") | ![Circle Example - Red](../master/single/shape/png/circle-red.png "Circle Example - Red") | ![Circle Example - Yellow](../master/single/shape/png/circle-yellow.png "Circle Example - Yellow") | ![Circle Example - Green](../master/single/shape/png/circle-green.png "Circle Example - Green") | ![Circle Example - Blue](../master/single/shape/png/circle-blue.png "Circle Example - Blue") |
 | *Default Usage* |  | *Emotional / Social Side-Effect* |  | *Mediator, Catalyst* |  |
 | **Cloud** | ![Cloud Shape](../master/single/shape/png/cloud.png "Cloud Shape") | ![Cloud Example - Red](../master/single/shape/png/cloud-red.png "Cloud Example - Red") | ![Cloud Example - Yellow](../master/single/shape/png/cloud-yellow.png "Cloud Example - Yellow") | ![Cloud Example - Green](../master/single/shape/png/cloud-green.png "Cloud Example - Green") | ![Cloud Example - Blue](../master/single/shape/png/cloud-blue.png "Cloud Example - Blue") |
@@ -32,7 +32,7 @@ Each image is linked to the respective file in the repository.
 
 ### Arrows
 | Category | Straight | Curved Left | Curved Right | Two-Sided Straight | Two-Sided Curved |
-| -------- |: ------ :|: --------- :|: ---------- :|: ---------------- :|: -------------- :|
+| -------- |:--------:|:-----------:|:------------:|:------------------:|:----------------:|
 | **Normal** | ![Arrow Normal - One-Sided Straight](../master/single/arrow/png/arrow-normal-one-sided-straight.png "Arrow Normal - One-Sided Straight") | ![Arrow Normal - One-Sided Curved Left](../master/single/arrow/png/arrow-normal-one-sided-curved-left.png "Arrow Normal - One-Sided Curved Left") | ![Arrow Normal - One-Sided Curved Right](../master/single/arrow/png/arrow-normal-one-sided-curved-right.png "Arrow Normal - One-Sided Curved Right") | ![Arrow Normal - Two-Sided Straight](../master/single/arrow/png/arrow-normal-two-sided-straight.png "Arrow Normal - Two-Sided Straight") | ![Arrow Normal - Two-Sided Curved](../master/single/arrow/png/arrow-normal-two-sided-curved.png "Arrow Normal - Two-Sided Curved") |
 | *Default Usage* | *A triggers / causes B* | *"* | *"* | *A correlates with B* | *"* |
 | **Bold** | ![Arrow Bold - One-Sided Straight](../master/single/arrow/png/arrow-bold-one-sided-straight.png "Arrow Bold - One-Sided Straight") | ![Arrow Bold - One-Sided Curved Left](../master/single/arrow/png/arrow-bold-one-sided-curved-left.png "Arrow Bold - One-Sided Curved Left") | ![Arrow Bold - One-Sided Curved Right](../master/single/arrow/png/arrow-bold-one-sided-curved-right.png "Arrow Bold - One-Sided Curved Right") | ![Arrow Bold - Two-Sided Straight](../master/single/arrow/png/arrow-bold-two-sided-straight.png "Arrow Bold - Two-Sided Straight") | ![Arrow Bold - Two-Sided Curved](../master/single/arrow/png/arrow-bold-two-sided-curved.png "Arrow Bold - Two-Sided Curved") |
