@@ -13,7 +13,7 @@ Each image is linked to the respective file in the repository.
 
 ### Shapes
 | Name | Print Shape | Red | Yellow | Green | Blue |
-| ---- | ----------- | --- | ------ | ----- | ---- |
+| ---- |: --------- :|: --- :|: --- :|: --- :|: --- :|
 | **Circle** | ![Circle Shape](../master/single/shape/png/circle.png "Circle Shape") | ![Circle Example - Red](../master/single/shape/png/circle-red.png "Circle Example - Red") | ![Circle Example - Yellow](../master/single/shape/png/circle-yellow.png "Circle Example - Yellow") | ![Circle Example - Green](../master/single/shape/png/circle-green.png "Circle Example - Green") | ![Circle Example - Blue](../master/single/shape/png/circle-blue.png "Circle Example - Blue") |
 | *Default Usage* |  | *Emotional / Social Side-Effect* |  | *Mediator, Catalyst* |  |
 | **Cloud** | ![Cloud Shape](../master/single/shape/png/cloud.png "Cloud Shape") | ![Cloud Example - Red](../master/single/shape/png/cloud-red.png "Cloud Example - Red") | ![Cloud Example - Yellow](../master/single/shape/png/cloud-yellow.png "Cloud Example - Yellow") | ![Cloud Example - Green](../master/single/shape/png/cloud-green.png "Cloud Example - Green") | ![Cloud Example - Blue](../master/single/shape/png/cloud-blue.png "Cloud Example - Blue") |
@@ -32,17 +32,17 @@ Each image is linked to the respective file in the repository.
 
 ### Arrows
 | Category | Straight | Curved Left | Curved Right | Two-Sided Straight | Two-Sided Curved |
-| -------- | -------- | ----------- | ------------ | ------------------ | ---------------- |
+| -------- |: ------ :|: --------- :|: ---------- :|: ---------------- :|: -------------- :|
 | **Normal** | ![Arrow Normal - One-Sided Straight](../master/single/arrow/png/arrow-normal-one-sided-straight.png "Arrow Normal - One-Sided Straight") | ![Arrow Normal - One-Sided Curved Left](../master/single/arrow/png/arrow-normal-one-sided-curved-left.png "Arrow Normal - One-Sided Curved Left") | ![Arrow Normal - One-Sided Curved Right](../master/single/arrow/png/arrow-normal-one-sided-curved-right.png "Arrow Normal - One-Sided Curved Right") | ![Arrow Normal - Two-Sided Straight](../master/single/arrow/png/arrow-normal-two-sided-straight.png "Arrow Normal - Two-Sided Straight") | ![Arrow Normal - Two-Sided Curved](../master/single/arrow/png/arrow-normal-two-sided-curved.png "Arrow Normal - Two-Sided Curved") |
-| *Default Usage* | *A triggers / causes B* | *A triggers / causes B* | *A triggers / causes B* | *A correlates with B* | *A correlates with B* |
+| *Default Usage* | *A triggers / causes B* | *"* | *"* | *A correlates with B* | *"* |
 | **Bold** | ![Arrow Bold - One-Sided Straight](../master/single/arrow/png/arrow-bold-one-sided-straight.png "Arrow Bold - One-Sided Straight") | ![Arrow Bold - One-Sided Curved Left](../master/single/arrow/png/arrow-bold-one-sided-curved-left.png "Arrow Bold - One-Sided Curved Left") | ![Arrow Bold - One-Sided Curved Right](../master/single/arrow/png/arrow-bold-one-sided-curved-right.png "Arrow Bold - One-Sided Curved Right") | ![Arrow Bold - Two-Sided Straight](../master/single/arrow/png/arrow-bold-two-sided-straight.png "Arrow Bold - Two-Sided Straight") | ![Arrow Bold - Two-Sided Curved](../master/single/arrow/png/arrow-bold-two-sided-curved.png "Arrow Bold - Two-Sided Curved") |
-| *Default Usage* | *A triggers / causes B* | *A triggers / causes B* | *A triggers / causes B* | *A correlates with B* | *A correlates with B* |
+| *Default Usage* | *A triggers / causes B* | *"* | *"* | *A correlates with B* | *"* |
 | **Dotted** | ![Arrow Dotted - One-Sided Straight](../master/single/arrow/png/arrow-dotted-one-sided-straight.png "Arrow Dotted - One-Sided Straight") | ![Arrow Dotted - One-Sided Curved Left](../master/single/arrow/png/arrow-dotted-one-sided-curved-left.png "Arrow Dotted - ODottedne-Sided Curved Left") | ![Arrow Dotted - One-Sided Curved Right](../master/single/arrow/png/arrow-dotted-one-sided-curved-right.png "Arrow Dotted - One-Sided Curved Right") | ![Arrow Dotted - Two-Sided Straight](../master/single/arrow/png/arrow-dotted-two-sided-straight.png "Arrow Dotted - Two-Sided Straight") | ![Arrow Dotted - Two-Sided Curved](../master/single/arrow/png/arrow-dotted-two-sided-curved.png "Arrow Dotted - Two-Sided Curved") |
-| *Default Usage* | *A triggers / causes B* | *A triggers / causes B* | *A triggers / causes B* | *A correlates with B* | *A correlates with B* |
+| *Default Usage* | *A triggers / causes B* | *"* | *"* | *A correlates with B* | *"* |
 | **Increasing** | ![Arrow Increasing - Straight](../master/single/arrow/png/arrow-increasing-straight.png "Arrow Increasing - Straight") | ![Arrow Increasing - Curved Left](../master/single/arrow/png/arrow-increasing-curved-left.png "Arrow Increasing - Curved Left") | ![Arrow Increasing - Curved Right](../master/single/arrow/png/arrow-increasing-curved-right.png "Arrow Increasing - Curved Right") |  |  |
-| *Default Usage* | *A increases / amplifies B* | *A increases / amplifies B* | *A increases / amplifies B* |  |  |
+| *Default Usage* | *A increases / amplifies B* | *"* | *"* |  |  |
 | **Decreasing** | ![Arrow Decreasing - Straight](../master/single/arrow/png/arrow-decreasing-straight.png "Arrow Decreasing - Straight") | ![Arrow Decreasing - Curved Left](../master/single/arrow/png/arrow-decreasing-curved-left.png "Arrow Decreasing - Curved Left") | ![Arrow Decreasing - Curved Right](../master/single/arrow/png/arrow-decreasing-curved-right.png "Arrow Decreasing - Curved Right") |  |  |
-| *Default Usage* | *A decreases / reduces / lowers B* | *A decreases / reduces / lowers B* | *A increases / amplifies / lowers B* |  |  |
+| *Default Usage* | *A decreases / reduces / lowers B* | *"* | *"* |  |  |
 
 ## Print Collections
 Various PDF collections for printing the Paper Toolkit at home.
