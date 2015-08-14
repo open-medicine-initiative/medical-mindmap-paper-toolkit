@@ -45,9 +45,18 @@ Each image is linked to the respective file in the repository.
 | *Default Usage* | *A decreases / reduces / lowers B* | *"* | *"* |  |  |
 
 ## Print Collections
-Various PDF collections for printing the Paper Toolkit at home.
+Various PDF collections of the *Medical Mindmap Paper Toolkit* for printing at home.
 
-WIP
+[**Complete Paper Toolkit**](../master/print/ptk-complete_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
+
+[**All Arrows**](../master/print/ptk-arrows-all-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
+[Big Arrows](../master/print/ptk-arrows-big-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
+[Small Arrows](../master/print/ptk-arrows-small-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
+
+[**All Shapes**](../master/print/ptk-shapes-all-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
+[Big Shapes](../master/print/ptk-shapes-big-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
+[Medium Shapes](../master/print/ptk-shapes-medium-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
+[Small Shapes](../master/print/ptk-shapes-small-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
 
 ## Process Guidance
 Assuming you have printed the Medical Mindmap Paper Toolkit (or parts of it), you may cut all elements before modeling or just cut desired elements as needed.
