@@ -3,7 +3,7 @@
 ![Medical Mindmap Paper Toolkit - Process](../master/ptk-process.png "Medical Mindmap Paper Toolkit - Process")
 
 ## Description
-The Medical Mindmap Paper Toolkit provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
+The *Medical Mindmap Paper Toolkit* provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
 
 WIP
 
@@ -59,7 +59,7 @@ Various PDF collections of the *Medical Mindmap Paper Toolkit* for printing at h
 [Small Shapes](../master/print/ptk-shapes-small-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
 
 ## Process Guidance
-Assuming you have printed the Medical Mindmap Paper Toolkit (or parts of it), you may cut all elements before modeling or just cut desired elements as needed.
+Assuming you have printed the *Medical Mindmap Paper Toolkit* (or parts of it), you may cut all elements before modeling or just cut desired elements as needed.
 
 The steps below outline the typical Medical Mindmapping process (but you may differ from it):
 
@@ -97,7 +97,7 @@ You should use the provided **legend template** *(available in [English](../mast
 WIP
 
 ## Contributing
-If you use the OPENMEDiAID Medical Mindmap Paper Toolkit to build your own medical mindmap, we would like you to share the results with us.
+If you use the OPENMEDiAID *Medical Mindmap Paper Toolkit* to build your own medical mindmap, we would like you to share the results with us.
 
 WIP
 
