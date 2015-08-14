@@ -61,9 +61,9 @@ You may download the complete Paper Toolkit or just parts of *(right-click -> sa
 [Small Shapes](../master/print/ptk-shapes-small_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf)
 
 ## Process Guidance
-Assuming you have printed the *Medical Mindmap Paper Toolkit* (or parts of it), you may cut all elements before modeling or just cut desired elements as needed.
+Assuming you have printed the *Medical Mindmap Paper Toolkit* or parts of it, you may cut all elements before modeling or just cut desired elements as needed.
 
-The steps below outline the typical Medical Mindmapping process (but you may differ from it):
+The steps below outline the typical Medical Mindmapping process *(but you may differ from it)*:
 
 ### Step 1
 Start by **writing symptoms, therapies and other health factors** *(e.g. drugs, physical therapy, surgery, diet, activities and emotions)*, which are important to you, **on shapes**.
@@ -91,13 +91,14 @@ When you are happy with your arrangement, you should **fix the elements** with s
 is important to you, you can write it on paper snippets and fix them next to the corresponding elements.
 
 ### Step 3
-Now it's time to **create a legend** to explain (and store) the meaning of your chosen arrows, shapes, colors and symbols.
+Now it's time to **create a legend** to explain *(and store)* the meaning of your chosen arrows, shapes, colors and symbols.
 
 You should use the provided **legend template** *(available in [English](../master/print/ptk-legend-english_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf) and [German](../master/print/ptk-legende-deutsch_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf))*, which makes Medical Mindmaps more consistent and comparable.
 
 ## Medical Mindmaps
-Here you can see the *Medical Mindmap* of a **Morbus Bechterew** Patient and the corresponding [Legend](../master/mindmap/PTK-Morbus-Bechterew-1-Benjamin-V2-Legend.pdf) to get you inspired  
-Note that your own Medical Mindmap will most likely look different.
+Here you can see the *Medical Mindmap* of a **Morbus Bechterew** Patient and the corresponding [Legend](../master/mindmap/PTK-Morbus-Bechterew-1-Benjamin-V2-Legend.pdf) to get you inspired
+
+*Note that your own Medical Mindmap will most likely look different.*
 
 ![PTK Medical Mindmap - Morbus Bechterew](../master/mindmap/PTK-Morbus-Bechterew-1-Benjamin-V2.JPG "PTK Medical Mindmap - Morbus Bechterew")
 
