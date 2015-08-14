@@ -95,7 +95,12 @@ Now it's time to **create a legend** to explain (and store) the meaning of your 
 You should use the provided **legend template** *(available in [English](../master/print/ptk-legend-english_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf) and [German](../master/print/ptk-legende-deutsch_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf))*, which makes Medical Mindmaps more consistent and comparable.
 
 ## Medical Mindmaps
-WIP
+Here you can see the *Medical Mindmap* of a **Morbus Bechterew** Patient and the corresponding [Legend](../master/mindmap/PTK-Morbus-Bechterew-1-Benjamin-V2-Legend.pdf) to get you inspired  
+Note that your own Medical Mindmap will most likely look different.
+
+![PTK Medical Mindmap - Morbus Bechterew](../master/mindmap/PTK-Morbus-Bechterew-1-Benjamin-V2.JPG "PTK Medical Mindmap - Morbus Bechterew")
+
+You can find more *Medical Mindmaps* in the [mindmap repository](../master/mindmap/).
 
 ## Contributing
 If you use the OPENMEDiAID *Medical Mindmap Paper Toolkit* to build your own medical mindmap, we would like you to share the results with us.
