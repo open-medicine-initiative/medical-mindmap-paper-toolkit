@@ -1,11 +1,12 @@
 # Medical Mindmap Paper Toolkit
-
-![Medical Mindmap Paper Toolkit - Process](../master/ptk-process.png "Medical Mindmap Paper Toolkit - Process")
-
-## Description
 The *Medical Mindmap Paper Toolkit* provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
 
-WIP
+## Description
+With a *Medical Mindmap* patients can illustrate their health situation **as perceived and experienced**, develop their own perspective and expand their understanding about their condition. Furthermore, a *Medical Mindmap* could also provide new insights and opportunities for improvement.
+
+It works similar to the common mind map concept, allowing all elements to be freely arranged and interconnected and helps to visualize connections and interactions between symptoms and various affecting health factors *(e.g. drugs, physical therapy, surgery, diet, activities and emotions)*.
+
+The *Medical Mindmap Paper Toolkit* was developed as part of my bachelor thesis to verify the potential of this process. The bachelor thesis will result in a concept for a digital tool to model *Medical Mindmaps*.
 
 ## Shape Overview
 An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.  
