@@ -96,7 +96,7 @@ Now it's time to **create a legend** to explain *(and store)* the meaning of you
 You should use the provided **legend template** *(available in [English](../master/print/ptk-legend-english_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf) and [German](../master/print/ptk-legende-deutsch_-_medical-mindmap-paper-toolkit_-_openmediaid.pdf))*, which makes Medical Mindmaps more consistent and comparable.
 
 ## Medical Mindmaps
-Here you can see the *Medical Mindmap* of a **Morbus Bechterew** Patient and the corresponding [Legend](../master/mindmap/PTK-Morbus-Bechterew-1-Benjamin-V2-Legend.pdf) to get you inspired
+Here you can see the *Medical Mindmap* of a **Morbus Bechterew** Patient and the corresponding [Legend](../master/mindmap/PTK-Morbus-Bechterew-1-Benjamin-V2-Legend.pdf) to get you inspired.
 
 *Note that your own Medical Mindmap will most likely look different.*
 
@@ -105,9 +105,9 @@ Here you can see the *Medical Mindmap* of a **Morbus Bechterew** Patient and the
 You can find more *Medical Mindmaps* in the [mindmap repository](../master/mindmap/).
 
 ## Contributing
-If you use the OPENMEDiAID *Medical Mindmap Paper Toolkit* to build your own medical mindmap, we would like you to share the results with us.
+If you use the *Medical Mindmap Paper Toolkit* to model your own *Medical Mindmap*, we would like you to share the results with us.
 
-WIP
+If you want to contribute you can just clone the repository, make your changes and provide your contribution as pull-request. Before your pull-request can be merged it needs to approved.
 
 ## Licence Information
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Medical Mindmap Paper Toolkit</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/open-medicine-initiative/medical-mindmap-paper-toolkit" property="cc:attributionName" rel="cc:attributionURL">Open Medicine Initiative e.V.</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
