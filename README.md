@@ -1,16 +1,26 @@
 # Medical Mindmap Paper Toolkit
-The *Medical Mindmap Paper Toolkit* provides a set of materials used to model medical mindmaps the analog way (i.e. on paper).
+The *Medical Mindmap Paper Toolkit* provides a set of materials used to create medical mindmaps the analog way (i.e. on paper). It is a tool meant to be used by patients to communicate and understand their health situation.
+
+Comment: Illustrate the process in a series of three successive images that show how it's done
+
+Comment: Add a table of contents (check bennidi/mbassador repository)
 
 ## Description
-With a *Medical Mindmap* patients can illustrate their health situation **as perceived and experienced**, develop their own perspective and expand their understanding about their condition. Furthermore, a *Medical Mindmap* could also provide new insights and opportunities for improvement.
+With a *Medical Mindmap* patients can illustrate their health situation **as perceived and experienced**, including **ALL** factors they consider relevant. Creating a *Medical Mindmap* helps to develop their own perspective and expand their understanding about their condition. Furthermore, a *Medical Mindmap* could also provide new insights and opportunities for improvement.
 
 It works similar to the common mind map concept, allowing all elements to be freely arranged and interconnected and helps to visualize connections and interactions between symptoms and various affecting health factors *(e.g. drugs, physical therapy, surgery, diet, activities and emotions)*.
 
-The *Medical Mindmap Paper Toolkit* was developed as part of my bachelor thesis to verify the potential of this process. The bachelor thesis will result in a concept for a digital tool to model *Medical Mindmaps*.
+The *Medical Mindmap Paper Toolkit* was developed as part of [this bachelor thesis](link to resource here) to verify the potential of this process. The bachelor thesis will result in a concept for a digital tool to model *Medical Mindmaps*.
 
 ## Shape Overview
-An overview of all shapes, arrows and symbols that are part of the Paper Toolkit.  
-Each image is linked to the respective file in the repository.
+A medical mindmap consists of three major types of elements:
+  * Different types of geometrical shapes (circle, rectangles etc.) used to represent different classes of health factors: symptoms, treatments, medication, social or physical activities etc.
+  * Different types of arrows used to represent different notions of relationships: causation, correlation, influence etc.
+  * Different icons used to encode additional type of information
+
+The table below shows an overview of all shapes, arrows and symbols that are part of the Paper Toolkit including their default meaning.
+
+*NOTE: Each image is linked to the respective file in the repository.*
 
 ### Shapes
 | Name | Print Shape | Red | Yellow | Green | Blue |
@@ -72,11 +82,11 @@ Start by **writing symptoms, therapies and other health factors** *(e.g. drugs, 
 
 ##### Hints:
 
- - You may change everything at any time *(e.g. arrangement, shapes, colors and sizes)*.
+ - You may change everything at any time *(e.g. arrangement, shapes, colors and sizes)* but should try to be as consistent as possible
  - You can freely choose the visual representation of your elements regarding their properties *(e.g. color, shape, size)*.
  - Decide on a logical structure to give the different properties a meaning and keep it.
  - At first, concentrate on aspects that are clear and easy for you *(e.g. a shape and color for your main symptoms)* and go into detail from there.
- - You may cut your own shapes or differ the stencils as desired.
+ - You may cut your own shapes or modify the stencils as desired.
  - Think about how the elements relate to each other and select arrows representing these relationships in a suitable way.
 
 ### Step 2
